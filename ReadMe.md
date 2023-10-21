@@ -22,3 +22,5 @@
     <li>Now run the fourth terminal to run the model in our video</li>
     <li>Download the video from the directory yolov5/runs/detect then download the demo.mp4 file again and run it you will see some prediction there</li>
   </ul>
+
+demo(2).mp4
