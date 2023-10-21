@@ -6,6 +6,7 @@
   <ul>
     <li>Google Colab</li>
     <li>yolov5</li>
+    <li>Open cv</li>
     <li>GPU</li>
   </ul>
   
