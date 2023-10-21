@@ -1,6 +1,6 @@
 ## Night_Watch
 
-### A Ai/ML model to find the suspicious activity or stealing of cycles using the camera footage or videos
+### A Ai/ML model to find the suspicious activity or stealing of cycles activity using the camera footage or videos
 
 ## tools Used
   <ul>
@@ -23,4 +23,4 @@
     <li>Download the video from the directory yolov5/runs/detect then download the demo.mp4 file again and run it you will see some prediction there</li>
   </ul>
 
-
+## For more you see our presentation uploaded on repository
