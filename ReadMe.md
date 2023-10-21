@@ -24,3 +24,7 @@
   </ul>
 
 ## For more you see our presentation uploaded on repository
+
+
+https://github.com/ARinger22/Night_Watch_ML/assets/110568866/d35c6264-2d9b-413d-8ea1-d508ce11f9ac
+
