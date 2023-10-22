@@ -4,10 +4,11 @@
 
 ## tools Used
   <ul>
-    <li>Google Colab</li>
+    <li>Google Colab & VS Code with libraries</li>
     <li>yolov5</li>
     <li>GPU</li>
   </ul>
+  
 ## GitHub Repository Structure
   <ul>
     <li>dataset : Directory containing the dataset (images)</li>
@@ -17,7 +18,23 @@
     <li>demo.mp4: file for testing the model</li>
     <li>problemStatement_year_4.pdf : problem statement of the problem</li>
   </ul>
-  
+
+## Working 
+  ### 1. Data Collection and training : 
+  <ul>
+    <li>Dataset : It consist of Images for training and testing, including normal and suspicious events related to cycle theft. </li>
+    <li>Training : Images frames were extracted and resized for compatibility with the model.</li>
+  </ul>
+
+  ### 2. Anomaly Detection : 
+  <ul>
+    <li>Confidence : First step of thief detection is on its confidence level like for confidence at least 80 percent</li>
+    <li>Time Spent : second step of thief detection is on the time spent working with opening the lock </li>
+  </ul>
+      <h5> it both condition are satisfying then our model prints it as a thief </h5>
+
+
+    
 ## How to run
   <ul>
     <li>Before running the any terminal make sure you are running your notebook on GPU instead of CPU. To check just go on runtime/change runtime type it should be on GPU</li>
@@ -43,6 +60,10 @@
   
 ## For more you see our presentation uploaded on repository
 
+## Conclusion
+  The cycle theft detection model combines the power of yolov5 architecture to identify suspicious events in video footage. By leveraging deep learning techniques, this model offers a reliable solution    for enhancing security and preventing cycle theft incidents even in low light and poor image quality conditions.
+
+<img src="image1.png"/>
 
 https://github.com/ARinger22/Night_Watch_ML/assets/110568866/d35c6264-2d9b-413d-8ea1-d508ce11f9ac
 
