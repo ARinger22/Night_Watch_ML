@@ -9,6 +9,15 @@
     <li>Open cv</li>
     <li>GPU</li>
   </ul>
+## GitHub Repository Structure
+  <ul>
+    <li>dataset : Directory containing the dataset (images)</li>
+    <li>Night_watch.ipynb : file take the yolov5 real time objective detection model then we give our dataset here to learn our dataset and it builds a model</li>
+    <li>custom.yaml : Directory which give the path of our dataset</li>
+    <li>cycle_theft: file to run the model after downloading it with live webcam</li>
+    <li>demo.mp4: file for testing the model</li>
+    <li>problemStatement_year_4.pdf : problem statement of the problem</li>
+  </ul>
   
 ## How to run
   <ul>
@@ -24,6 +33,15 @@
     <li>Download the video from the directory yolov5/runs/detect then download the demo.mp4 file again and run it you will see some prediction there</li>
   </ul>
 
+## Run on live webcam
+  to run on live webcam 
+  <ul>
+    <li>First Download the last.pt model which after running the above steps</li>
+    <li>Download from the directory yolov5/models/last.pt model </li>
+    <li>put the path of your last.pt model inside the cycle_theft.ipynb jupyter file in the path</li>
+    <li>After running make sure you have permission of your webcam to open then you will able to see that model is working</li>
+  </ul>
+  
 ## For more you see our presentation uploaded on repository
 
 
