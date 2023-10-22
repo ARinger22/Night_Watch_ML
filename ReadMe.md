@@ -64,7 +64,7 @@
 ## Conclusion
   The cycle theft detection model combines the power of yolov5 architecture to identify suspicious events in video footage. By leveraging deep learning techniques, this model offers a reliable solution    for enhancing security and preventing cycle theft incidents even in low light and poor image quality conditions.
 
-<img src="image1.png"/>
+<img src="Image1.png"/>
 
 https://github.com/ARinger22/Night_Watch_ML/assets/110568866/d35c6264-2d9b-413d-8ea1-d508ce11f9ac
 
